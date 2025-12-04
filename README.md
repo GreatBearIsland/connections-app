@@ -1,10 +1,5 @@
 # connections-app
 
-Prerequisites:
-
-gem install mqtt
-
-gem install stomp
 
 Run: 
 
